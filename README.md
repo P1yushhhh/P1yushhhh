@@ -1,22 +1,3 @@
-👋 Hello, I'm Piyush Chawla!
-🚀**Aspiring AI Engineer | Data Science**
-📍 Passionate about **Machine Learning, NLP, Generative AI**
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Akshita Pathak</h1>
 
-🧑‍💻 About Me
-🎓 Studying **B.E in Electronics and Computer Science at Thapar Institute of Engineering and Technology, Patiala**
-
-💡 Working on **AI and Generative AI Projects**
-🔬 Researching **Lightweight Reversible Encryption & Quantum Computing**
-🌱 Currently learning **NLP, MLOps, and Neural Networks**
-🏆 Aiming to **become an AI Engineer** and build impactful projects
-
-### 💻 Technologies & Skills
-**Languages:** Python, C++, SQL
-
-**AI & ML:** TensorFlow, PyTorch, Scikit-learn
-
-**NLP & Speech:** Hugging Face, SpeechRecognition, Text-to-Speech
-
-**Quantum Computing:** Qiskit, Quantum Gates
-
-**Tools & DevOps:** Git, Docker, Kubernetes, MLOps
+<h3 align="center">A Final Year Computer Engineering Undergrad</h3>
